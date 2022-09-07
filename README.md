@@ -11,4 +11,5 @@ Noteer eveneens welke aanpassingen je aan welke configuratiebestanden je hebt do
 ## Eigen scripts en programma's
 Sla je als aparte bestanden op in deze repository.
 ## Afbeeeldingen toevoegen
-![En dit is de afbeelding in de image map](images/GitHub.png)
+![Dit is 'images/GitHub.png'](images/GitHub.png)
+![Dit is 'images/Octocat.jpg'](images/Octocat.jpg)
